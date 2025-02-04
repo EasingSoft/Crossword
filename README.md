@@ -11,3 +11,5 @@ https://github.com/user-attachments/assets/5c35fd21-4cfd-4a8c-aeae-3b9e2c8deda4
 4. (OPTIONAL) Set Capital % (chance of generating guessable characters)
 5. Click "Generate" (It will generate random puzzle)
 6. (OPTIONAL) Adjust keywords and click visualize to generate new pattern
+
+#### Made on May 2024
